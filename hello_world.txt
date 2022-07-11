@@ -1,0 +1,2 @@
+Hello world!
+Chicken rice is nice & Git is awesome!
